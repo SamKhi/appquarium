@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <!--<color name="colorPrimary">#3F51B5</color> ColorPrimary = couleur du bandeau -->
-    <color name="colorPrimary">#f9140c</color>
-    <color name="colorPrimaryDark">#309f3d</color>
-    <color name="colorAccent">#40ffcc</color>
+    <color name="colorBackground">#05b5ef</color>
+    <color name="colorPrimary">#0d37cf</color>
+    <color name="colorPrimaryDark">#0d37cf</color>
+    <color name="colorAccent">#0d37cf</color>
 </resources>

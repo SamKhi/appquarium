@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">appquarium</string>
+    <string name="se_connecter">Se connecter</string>
+    <string name="mot_de_passe_oubli">Mot de passe oublié ?</string>
+    <string name="mot_de_passe">Mot de passe</string>
+    <string name="pas_encore_membre">Pas encore membre ?</string>
+    <string name="mail">Mail</string>
+    <string name="confirmer_le_mot_de_passe">Confirmer le mot de passe</string>
+    <string name="adresse">Adresse</string>
+    <string name="pays">Pays</string>
+    <string name="pseudo">Pseudo</string>
+    <string name="s_enregister">S\'enregister</string>
 </resources>
