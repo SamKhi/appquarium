@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_poissons"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_poissons" />
+
+    <item
+        android:id="@+id/navigation_crustaces"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="@string/title_crustaces" />
+
+    <item
+        android:id="@+id/navigation_plantes"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_plantes" />
+
+    <item
+        android:id="@+id/navigation_test"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="@string/title_tests" />
+
+</menu>

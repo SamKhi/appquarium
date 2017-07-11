@@ -10,4 +10,13 @@
     <string name="pays">Pays</string>
     <string name="pseudo">Pseudo</string>
     <string name="s_enregister">S\'enregister</string>
+    <string name="longueur">Longueur</string>
+    <string name="largeur">Largeur</string>
+    <string name="hauteur">Hauteur</string>
+    <string name="volume">Volume</string>
+    <string name="title_activity_aquarium">Mon aquarium</string>
+    <string name="title_poissons">Poissons</string>
+    <string name="title_crustaces">Crustacés</string>
+    <string name="title_plantes">Plantes</string>
+    <string name="title_tests">Tests</string>
 </resources>
